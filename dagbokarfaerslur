@@ -88,3 +88,17 @@ Kl 9:30
 Í dag höldum við áfram að forrita. Magnús og Vala eru að vinna í UI layer. Við erum búin að breyta öllum csv files 
 eins og við viljum hafa þá og savea á réttum stað. Katrín, Birkir og Tjörvi eru að byrja á klösunum í Data layer. 
 Við bíðum eftir að fá hjálp áður en við klárum síðasta model klasan, Voyage. 
+
+Kl 18:00
+Magnús gerði createAirplane fall og InputProcessing klasa fyrir Airplane og gerði svo API fyrir alla layerana og tengdi þá saman
+og er næstum því búinn að ná að skrifa niður nýjar flugvélar í skrá. Tjörvi gerði Destination InputProcessing, Vala byrjaði á
+InputProcessing klasa fyrir Employee og gerði 2 föll þar, kláraði Voyage handler og vann smá í Data layer. Katrín og Birkir byrjuðu
+á Employee_handler klasanum í Logic layer og gerðu fallið list_pilots_by_license. Síðan byrjuðu þau á DestinationRepository klasanum
+í Data layer en það gekk þó ekki nógu vel þar til þau fengu hjálp í lok dags.
+
+Miðvikudagur - 4. Desember
+
+Kl 9:40
+Magnús ætlar að klára að ná að skrá flugvélar í skrá og svo vinna í LogicLayer til að byrja með og tengja create destination 
+og create employee frá UILayer, niður í DataLayer, Tjörvi ætlar að gera Voyage InputProcessing, Katrín og Birkir ætla að sjá um
+Destination í DataLayer og Vala sér um Employee í DataLayer. Eftir það finnum við önnur verkefni.
