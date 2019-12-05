@@ -111,3 +111,10 @@ Magnús var að vinna í LogicLayer og tengja logic API við data API og náði 
 frá inputi í UI layer í gegnum LL og DL. Breytti svo smá csv skránum og var mikið að laga bugs.  Tjörvi gerði create voyage í 
 voyage input og vann í ýmsu fleira.
 
+Fimmtudagur - 5. Desember
+
+Kl 9:30
+Magnús debuggaði mikið í gærkvöldi þannig að forritið keyrir aftur, og lagaði get airplanes fallið og employeeinputprocessing.
+Magnús ætlar að gera alls konar og laga ýnmislegt. Tjörvi ætlar að vinna í destination input og destination model. Birkir ætlar
+að braska í alls konar dóti. Vala ætlar að sjá um employee. Kata ætlar að vinnna í edit destinations. Eftir það finnum við ný verkefni.
+
