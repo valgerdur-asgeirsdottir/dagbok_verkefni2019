@@ -102,3 +102,12 @@ Kl 9:40
 Magnús ætlar að klára að ná að skrá flugvélar í skrá og svo vinna í LogicLayer til að byrja með og tengja create destination 
 og create employee frá UILayer, niður í DataLayer, Tjörvi ætlar að gera Voyage InputProcessing, Katrín og Birkir ætla að sjá um
 Destination í DataLayer og Vala sér um Employee í DataLayer. Eftir það finnum við önnur verkefni.
+
+
+Kl 18:50
+Í dag var Vala að vinna í functions fyrir employees í öllum layerum og erum við komin dágott á leið með það en það tók tíma að
+skilja alveg hvernig upplýsingar fara á milli layera. Katrín og Birkir byrjuðu á list og edit destinations í öllum layerum.
+Magnús var að vinna í LogicLayer og tengja logic API við data API og náði að finna ut hvernig á að skrifa upplýsingar í skránna
+frá inputi í UI layer í gegnum LL og DL. Breytti svo smá csv skránum og var mikið að laga bugs.  Tjörvi gerði create voyage í 
+voyage input og vann í ýmsu fleira.
+
