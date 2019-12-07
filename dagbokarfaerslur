@@ -132,3 +132,11 @@ Magnús ætlar að byrja að gera fall sem sækir gögn um flugvelatýpur svo no
 nyja flugvel ef flugvel af sömu týpu er nú þegar til. Birkir ætlar að skoða employees og Katrín ætlar að skoða destination.
 Vala ætlar að klára alla virkni fyrir Employee og finnur sér síðan annað verkefni.
 
+Kl 18:00
+Magnus gerði fall sem sækir gögn um flugvelatypur svo notandi geti valið týpu og þá koma hinar upplýsingarnar sjálfkrafa.
+Magnus og Tjörvi unnu sem teymi i dag. Þeir gerðu AirplaneType model klasa. Svo gerðu þeir fall þannig að þegar notandi slær inn
+nýja flugvél, getur hann valið hvort hun er af nyrri týpu, eða týpu sem er nu þegar til. Ef ny týpa er valin, bætist hun við í
+airplaneType csv skrána og hægt að velja hana auðveldlega næst. Þeir plönuðu svo breytingar á flight og voyage model klösum og breyttu því svo.
+Katrín kláraði alla Destination klasana með hjálp Birkis, svo nú er hægt að skrá nýjan áfangastað, lista alla áfangastaði og breyta áfangastöðum.
+Vala kláraði Employee og ætlar að byrja á að finna út hvort employees séu available sem er tengt Voyages. Við ætlum að hittast á sunnudaginn
+og klára allar A og B kröfur en við erum mjög nálægt því eins og staðan er núna.
