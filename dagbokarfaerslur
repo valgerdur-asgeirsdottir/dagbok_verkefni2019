@@ -155,7 +155,7 @@ Hópurinn fór heim í kvöldmat en er mættur aftur upp í skóla. Við ætlum 
 Magnús og Tjörvi gerðu Schedule en það reyndist smá erfitt og að lokum virtist það nánast vera tilbuið fyrir utan eina index
 out of range error, sem var erfitta að laga. Hópurinn fór svo heim um 2 leytið.
 
-Þriðjudagur 11. desember
+Þriðjudagur 10. desember
 
 15:00
 Hópurinn var lengi að í nótt og mætti ekki í morgun í skólann vegna veðurs. Við ætlum að vinna heima í sitt hvoru lagi. 
@@ -169,4 +169,31 @@ taka gögn upp úr csv skránni með model klösum. Þá kom í ljós smá vesen
 þar sem allir starfsmenn eru geymdir í einni sameiginlegri skrá og hafa sömu attributes og því tilgangslaust að hafa mismunanid model klasa.
 Magnús ákvað því að sameina model klasana. Magnús gerði svo nýtt read fall og gerði get name by ssn fall fyrir work scheduleið.
 Magnús var mjög mikið að laga í dag, en bætti einnig við nýju.
+
+Miðvikudagur 11. Desember
+10:00
+Magnús ætlar að gera þrjú ný read föll, og nota model klasana til þess. Svo ætlar hann að gera schedule by employee fall.
+Katrín ætlar að renna í gegnum það sem er eftir af A og B kröfunum og reyna að vinna sig í gegnum þær.
+Magnús gerði ný read föll fyrir alla model klasa og gerði svo schedule by employee.  Svo gerði hann tvö generate id föll fyrir voyage.
+Svo fattaði hann að hópurinn var ekkert að nota datetime, og hann reddaði því með glæsibrag, en það var svolitið erfitt að plúsa saman datetime og time.
+Katrín er búin að vera að laga alls kyns hluti í dag en mest er hún búin að vinna í að laga isValid skránna fyrir destinations og list all airplanes fallið.
+Vala kláraði alla virkni í Voyages en það eru nokkrar villur sem þarf að laga.
+
+23:30
+Í dag héldum við áfram að vinna í voyages og schedule. Magnús kláraði að útfæra work schedule by day, work schedule by week og
+work schedule by employee. Við erum komin langt með verkefnið og markmiðið að klára A og B kröfur á morgun.
+
+
+Fimmtudagur - 12. Des
+
+Kl 10:00
+Í dag ætlum við að klára að útfæra voyages og klára A og B kröfurnar. Auk þess þurfum við að lagfæra ýmislegt og debugga.
+Vala er að klara alla virkni. Magnús ætlar að gera alls konar list föll og laga. Katrín ætlar að byrja á að laga validations
+fyrir date input í voyages, svo sér hún hvert dagurinn leiðir hana. Birkir og Tjörvi ætla að vinna í skýrslunni, villu prófa forritið og hjálpa til við kóðun.
+
+Kl 01:00
+Dagurinn í dag gekk mjög vel og hópurinn var mjög duglegur að skipta milli sín verkum og hjálpa hvort öðru. 
+Það voru eiginlega allir að vinna í öllu í dag og við náðum að klára allar A kröfurnar, allar nema eina B kröfu,
+sem við ætlum að klára á morgun og svo eina C kröfu.
+
 
